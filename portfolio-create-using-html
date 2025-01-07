@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portfolio page</title>
+</head>
+<body>
+   
+    <h1>Noor mohammad</h1>
+    <p>software engineer.Dedicated Marketing Manager with over 1 years of experience in digital marketing and campaign management.</p>
+    <img src="self.jpeg" alt="my pictur" hieght="60px" width ="50px">
+    <hr/>
+    
+    <h2>Education</h2>
+    <ul>
+        <li> <b>10th class </b> :10.00 cgpa</li>
+        <li> <b>12th class </b> :8.00 cgpa</li>
+        <li>b.tech(CSE) </li>
+    </ul>
+    <hr/>
+    
+    <h2>Skill</h2>
+    <ul>
+        <li>c, c++, java</li>
+        <li>data structure(cpp)</li>
+    </ul>
+    <hr/>
+
+    <h2>hobbies</h2>
+    <ul>
+        <li>reading</li>
+        <li>singing</li>
+
+    </ul>
+    <hr/>
+
+    <h2>Contact</h2>
+    <u>
+        <li><b>Email: </b>nm798***@gmail.com</li>
+        <li><b>Mob: </b>9006765***</li>
+    </u>
+    <hr/>
+
+</body>
+</html>
